@@ -2,4 +2,4 @@
 
 # connecting to server
 
-ssh ubuntu@52.91.128.231 -i ~/.ssh/school
+ssh -i ~/.ssh/school ubuntu@52.91.128.231
